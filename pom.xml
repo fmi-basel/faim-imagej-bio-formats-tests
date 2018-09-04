@@ -99,6 +99,12 @@
 			<groupId>ome</groupId>
 			<artifactId>bio-formats_plugins</artifactId>
 			<scope>test</scope>
+			<exclusions>
+				<exclusion><!-- NB: Exclude problematic uber-JAR that bundles commons-io. -->
+					<groupId>ch.systems.cisd</groupId>
+					<artifactId>jhdf5</artifactId>
+				</exclusion>
+			</exclusions>
 		</dependency>
 		<dependency>
 			<groupId>junit</groupId>
