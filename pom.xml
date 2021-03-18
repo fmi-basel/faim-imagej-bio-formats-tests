@@ -79,6 +79,7 @@
 
 		<!-- NB: Deploy releases to the SciJava Maven repository. -->
 		<releaseProfiles>sign,deploy-to-scijava</releaseProfiles>
+		<bio-formats.version>6.6.0</bio-formats.version>
 	</properties>
 
 	<dependencies>
