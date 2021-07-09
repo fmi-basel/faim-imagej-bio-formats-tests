@@ -68,8 +68,8 @@
 		<url>https://github.com/fmi-basel/faim-imagej-bio-formats-tests/issues</url>
 	</issueManagement>
 	<ciManagement>
-		<system>Travis CI</system>
-		<url>https://travis-ci.com/fmi-basel/faim-imagej-bio-formats-tests</url>
+		<system>GitHub Actions</system>
+		<url>https://github.com/fmi-basel/faim-imagej-bio-formats-tests/actions</url>
 	</ciManagement>
 
 	<properties>
