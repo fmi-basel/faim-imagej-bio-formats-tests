@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.com/fmi-basel/faim-imagej-bio-formats-tests.svg?branch=master)](https://travis-ci.com/fmi-basel/faim-imagej-bio-formats-tests)
+[![Build Status](https://github.com/fmi-basel/faim-imagej-bio-formats-tests/actions/workflows/build-main.yml/badge.svg)](https://github.com/fmi-basel/faim-imagej-bio-formats-tests/actions/workflows/build-main.yml)
