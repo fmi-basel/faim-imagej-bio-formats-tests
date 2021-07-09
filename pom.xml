@@ -77,11 +77,8 @@
 		<license.licenseName>bsd_2</license.licenseName>
 		<license.copyrightOwners>FMI Basel</license.copyrightOwners>
 
-		<!-- NB: Deploy releases to the ImageJ Maven repository. -->
-		<releaseProfiles>deploy-to-imagej</releaseProfiles>
-
-		<!-- NB: Bug in native-lib-loader 2.3.0 -->
-		<native-lib-loader.version>2.2.0</native-lib-loader.version>
+		<!-- NB: Deploy releases to the SciJava Maven repository. -->
+		<releaseProfiles>deploy-to-scijava</releaseProfiles>
 	</properties>
 
 	<dependencies>
